@@ -13,5 +13,19 @@ url...
 ...  
   
 If you think this work is useful to your research, please cite:  
-Sen Jia, Thomas Lansdall-Welfare and Nello Cristianini. Freudian Slips: Analysing the Internal Representations of a Neural Network from its
-Mistakes. The Sixteenth International Symposium on Intelligent Data Analysis (2017).
+
+@InProceedings{10.1007/978-3-319-68765-0_12,
+author="Jia, Sen
+and Lansdall-Welfare, Thomas
+and Cristianini, Nello",
+editor="Adams, Niall
+and Tucker, Allan
+and Weston, David",
+title="Freudian Slips: Analysing the Internal Representations of a Neural Network from Its Mistakes",
+booktitle="Advances in Intelligent Data Analysis XVI",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="138--148",
+isbn="978-3-319-68765-0"
+}
